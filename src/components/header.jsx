@@ -62,22 +62,6 @@ class Header extends Component {
 										<Link
 											className='font-semibold text-gray hover:text-green/50 duration-500 p-4 lg:p-0 block lg:inline-block text-xl lg:text-base'
 											activeClassName='text-green hover:!text-green'
-											to='/#services'>
-											Services
-										</Link>
-									</li>
-									<li>
-										<Link
-											className='font-semibold text-gray hover:text-green/50 duration-500 p-4 lg:p-0 block lg:inline-block text-xl lg:text-base'
-											activeClassName='text-green hover:!text-green'
-											to='/blog/'>
-											Blog
-										</Link>
-									</li>
-									<li>
-										<Link
-											className='font-semibold text-gray hover:text-green/50 duration-500 p-4 lg:p-0 block lg:inline-block text-xl lg:text-base'
-											activeClassName='text-green hover:!text-green'
 											to='/about/'>
 											About Us
 										</Link>
@@ -88,6 +72,22 @@ class Header extends Component {
 											activeClassName='text-green hover:!text-green'
 											to='/our-team/'>
 											Our Team
+										</Link>
+									</li>
+									<li>
+										<Link
+											className='font-semibold text-gray hover:text-green/50 duration-500 p-4 lg:p-0 block lg:inline-block text-xl lg:text-base'
+											activeClassName='text-green hover:!text-green'
+											to='/#services'>
+											Services
+										</Link>
+									</li>
+									<li>
+										<Link
+											className='font-semibold text-gray hover:text-green/50 duration-500 p-4 lg:p-0 block lg:inline-block text-xl lg:text-base'
+											activeClassName='text-green hover:!text-green'
+											to='/blog/'>
+											Blog
 										</Link>
 									</li>
 									<li>
