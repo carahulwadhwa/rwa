@@ -7,7 +7,7 @@ module.exports = {
 		title: `R Wadhwa & Associates`,
 		description: `A 360 degree financial solution!`,
 		image: `/logo-icon.jpg`,
-		siteUrl: `https://www.rwadhwaandassociates.com`,
+		siteUrl: `https://www.carwadhwa.com`,
 	},
 	plugins: [
 		"gatsby-plugin-postcss",
