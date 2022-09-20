@@ -11,4 +11,4 @@
 
 Let us know if you have any issues.
 
-Email us on: [bharat@establishonline.io](mailt:bharat@establishonline.io)
+Email us at: [bharat@establishonline.io](mailt:bharat@establishonline.io)
