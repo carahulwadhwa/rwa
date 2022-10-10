@@ -26,6 +26,12 @@ const Team = () => {
 							<p>Founder and Senior Partner of R. Wadhwa &amp; Associates, CA. Ramesh Wadhwa has worked assiduously in both Direct and Indirect Taxes for the past 37 years.</p>
 							<p>A Fellow member of the Institute of Chartered Accountants of India, CA. Ramesh Wadhwa has contributed a plethora of articles and critiques in several professional journals and publications, sharing his hands-on knowledge of the finer nuances of Direct and Indirect Tax practice in India with the core intention of contributing to the growth of the profession of Chartered Accountancy. A B.Com graduate, he has also completed the Post Qualification Course (PQC) on Information System Audit (ISA) of the Institute of Chartered Accountants of India.</p>
 						</div>
+						<div label='CA. Rajiv Nagpal'>
+							<h3 className='text-2xl font-bold pb-2'>CA. Rajiv Nagpal</h3>
+							<p>Rajiv Nagpal is a Fellow member of the Institute of Chartered Accountants of India, armed with over 30 years of experience in Taxation and Audit.</p>
+							<p>He has done advisory, compliance, and litigation work on various Corporate Tax and Regulatory matters for domestic and multi-national businesses across various industry sectors. He has also represented before the Commissioner of Appeals and other appellate forums. He is also responsible for coordination, planning, team leadership, and reporting in connection with various clients' statutory and internal audits.</p>
+							<p>He heads the New Delhi office.</p>
+						</div>
 						<div label='CA. Lavneet Relan'>
 							<h3 className='text-2xl font-bold pb-2'>CA. Lavneet Relan</h3>
 							<p>An astute professional, CA. Lavneet Relan has risen from a humble and conscientious Article Assistant to an indispensable resource at R. Wadhwa &amp; Associates.</p>
